@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi👋 I'm Kenly
 
-<!--
-**113021131/113021131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓Computer Science Student @ Asia University Taiwan
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/113021131?style=social)](https://github.com/113021131)  
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20message-red)](mailto:natanaelkenly@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **passionate student** exploring the world of **computer science**. I love **building projects**, solving problems, and learning new technologies!  
+
+🌱 **Learning:** [Python, Machine Learning, mandarin]  
+💡 **Interests:** [AI, Sport, Languages]  
+⚡ **Fun fact:** ["I don't like to play video games!"]  
+
+## 📫 Let's Connect!
+
+- **Email:** natanaelkenly@gmail.com
+- **Instagram:** [@natanaelkenly](https://instagram.com/natanaelkenly) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
